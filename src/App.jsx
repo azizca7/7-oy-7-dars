@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Provider } from "react-redux";
-import { store } from "./lib/store"
+import { store } from "./lib/";
 import PostList from "./components/PostList";
 
 function App() {
